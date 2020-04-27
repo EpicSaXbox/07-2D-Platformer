@@ -1,2 +1,2 @@
-# 07-2D-Platformer
-2D Platformer made in C220 at IU Bloomington
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
